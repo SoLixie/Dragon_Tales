@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dragon Tales</string>
+    <string name="splashII">GAME STARTING</string>
+    <string name="dragon">DRAGON</string>
+    <string name="tales">TALES</string>
+    <string name="start">START</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="high_score">HIGH SCORE</string>
+    <string name="settings">SETTINGS</string>
+    <string name="rider">WELCOME DRAGON RIDER</string>
+</resources>
